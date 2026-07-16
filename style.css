@@ -3,7 +3,7 @@ body {
     font-family: 'Roboto Condensed', sans-serif;
     text-align: center;
     color:cornsilk
-    background-color: background-color: #121214;
+    background-color: #121214;
 }
 
 h1, h2, h3 {
@@ -12,7 +12,7 @@ h1, h2, h3 {
 }
 
 p {
-    font-size: 20px;
+    font-size: 25px;
 }
 
 ul {
