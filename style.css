@@ -16,7 +16,10 @@ p {
 }
 
 ul {
+    max-width: 1220px;
+    margin: 15px auto;
     text-align: left;
+    padding-left: 20px;
 }
 
 a{
